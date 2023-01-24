@@ -1,2 +1,3 @@
 ## Analysis ---
 
+data(iris)
